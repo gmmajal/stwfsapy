@@ -1,6 +1,6 @@
 [project]
 name = "stwfsapy"
-version = "0.6.2"
+version = "0.7.0"
 description = "A library for match labels of thesaurus concepts to text and assigning scores to found occurrences."
 authors = [{name ="AutoSE", email = "autose@zbw.eu"}]
 requires-python = ">=3.10,<3.14"
@@ -13,7 +13,7 @@ classifiers = [
 dependencies=[
     "scipy~=1.15",
     "scikit-learn>0.24,<2.0",
-    "rdflib~=7.1"
+    "rdflib~=7.5"
 ]
 
 [project.urls]
