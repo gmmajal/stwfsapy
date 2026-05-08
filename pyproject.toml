@@ -1,6 +1,6 @@
 [project]
 name = "stwfsapy"
-version = "0.7.0-dev"
+version = "0.7.1-dev"
 description = "A library for match labels of thesaurus concepts to text and assigning scores to found occurrences."
 authors = [{name ="AutoSE", email = "autose@zbw.eu"}]
 requires-python = ">=3.10,<3.14"
