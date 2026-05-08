@@ -1476,7 +1476,7 @@ wheels = [
 
 [[package]]
 name = "stwfsapy"
-version = "0.7.0.dev0"
+version = "0.7.1.dev0"
 source = { editable = "." }
 dependencies = [
     { name = "rdflib" },
