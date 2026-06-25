@@ -30,7 +30,7 @@ dev = [
 ci = [
     "pytest-cov~=6.2.0",
     "ruff~=0.14.0",
-    "safety~=3.7.0",
+    "safety~=3.8.0",
     "bandit~=1.9.0",
 ]
 
